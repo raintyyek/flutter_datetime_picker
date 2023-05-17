@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_datetime_picker/flutter_datetime_picker.dart';
+import 'package:flutter_datetime_picker_next/flutter_datetime_picker.dart';
 
 void main() => runApp(new MyApp());
 
